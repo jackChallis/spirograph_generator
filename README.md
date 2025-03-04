@@ -2,7 +2,7 @@
 
 A collection of Python scripts for generating mathematical spirograph patterns using matplotlib. Create beautiful, customizable geometric designs with these interactive tools.
 
-![Spirograph Example](images/spirograph_example.png)
+![Spirograph Example](images/spirograph5.png)
 
 ## Features
 
